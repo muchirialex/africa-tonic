@@ -1,4 +1,4 @@
-# Welcome to Amazon-ish 👋
+# Welcome to Africa Tonic 👋
 
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
@@ -9,14 +9,12 @@
 
 > Amazon redesign with a modern UI, complete E-Commerce functionality including Payment Processing (Stripe API) and User Authentication (Firebase).
 
-### ✨ [Demo](https://amazon-ish.vercel.app)
-
 ## Author
 
-👤 **Dash Santosh**
+👤 **Alex Karoki**
 
-- Website: https://dashsantosh.me
-- Github: [@santdas36](https://github.com/santdas36)
+- Website: https://muchirialex.me
+- Github: [@muchirialex](https://github.com/muchirialex/)
 
 ## Show your support
 
